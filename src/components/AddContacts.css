@@ -1,0 +1,26 @@
+
+.form{
+   color: white;
+    background-color: rgb(70, 0, 128);
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+    margin-top:100px;
+    margin-left: 400px;
+
+    
+    width:600px;
+    height:600px;
+  
+}
+.form input{
+  margin: 10px;
+
+}
+.form img{
+width: 300px;
+border-radius: 100px; /* Радиус скругления */
+border: 3px solid green; /* Параметры рамки */
+box-shadow: 0 0 7px #666; /* Параметры тени */
+}
